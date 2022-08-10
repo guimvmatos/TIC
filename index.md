@@ -1,14 +1,43 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/guimvmatos/TIC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
 # Tópicos em Infraestrutura de Comunicação
 
+https://www.cin.ufpe.br/~pasg/if678/if678.html
+
+https://pt.slideshare.net/sionara14/aula-ti-1-infraestrutura-e-redes
+
 ## Mr. Guilherme Matos
+
+
+Tópicos a serem abordados
+- O que é infraestrutura de redes e telecomunicações? https://www.penso.com.br/infraestrutura-de-ti-guia-completo/
+  - Benefícios 
+- Quais dados passam e passarão por estas redes?
+  - Internet
+  - VOIP
+  - IOT
+  - Multiverso
+  - 5G
+  - Games sem console
+  - AR/VR
+  - CDN
+  - outros
+- Tipos de infraestrutura de redes
+  - LAN
+  - MAN
+  - WAN
+  - Wireless
+    - WLAN
+    - WMAN
+    - WWAN
+- O que compõe uma infraestrutura de TI? https://www.penso.com.br/infraestrutura-de-ti-guia-completo/
+  - Software
+  - Hardware
+  - Gerenciamento de dados
+  - Serviços
+  - Redes
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
