@@ -6,7 +6,7 @@
 
 ## Componentes da Infraestrutura de Comunicação
 
-<img src="https://raw.githubusercontent.com/guimvmatos/TIC/blob/gh-pages/Images/Componentes%20Infrastrutura%20de%20Comunica%C3%A7%C3%A3o.png">
+<img src="https://github.com/guimvmatos/TIC/blob/gh-pages/Images/Componentes%20Infrastrutura%20de%20Comunicação.png">
 
 
 ### Hardware
