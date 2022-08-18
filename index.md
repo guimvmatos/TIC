@@ -1,70 +1,58 @@
-# Tópicos em Infraestrutura de Comunicação
+# O que é Tecnologia de Infraestrutura de Comunicação?
 
-https://www.cin.ufpe.br/~pasg/if678/if678.html
+## Objetivo da aula
 
-https://pt.slideshare.net/sionara14/aula-ti-1-infraestrutura-e-redes
+> Apresentar uma visão geral dos principais componentes de uma infraestrutura de TI
 
-## Mr. Guilherme Matos
+## Componentes da Infraestrutura de Comunicação
 
-
-Tópicos a serem abordados
-- O que é infraestrutura de redes e telecomunicações? https://www.penso.com.br/infraestrutura-de-ti-guia-completo/
-  - Benefícios 
-- Quais dados passam e passarão por estas redes?
-  - Internet
-  - VOIP
-  - IOT
-  - Multiverso
-  - 5G
-  - Games sem console
-  - AR/VR
-  - CDN
-  - outros
-- Tipos de infraestrutura de redes
-  - LAN
-  - MAN
-  - WAN
-  - Wireless
-    - WLAN
-    - WMAN
-    - WWAN
-- O que compõe uma infraestrutura de TI? https://www.penso.com.br/infraestrutura-de-ti-guia-completo/
-  - Software
-  - Hardware
-  - Gerenciamento de dados
-  - Serviços
-  - Redes
+<img src="https://github.com/guimvmatos/TIC/blob/gh-pages/Images/Componentes%20Infrastrutura%20de%20Comunicação.png">
 
 
+### Hardware
 
+- Computardor pessoal (PC)
+- Dispositivos móveis
+- Estações de trabalho (workstation)
+- Servidor
+- Mainframe (servidor)
+- Supercomputador (especializados)
+- Computação em grade (grid computing)
+- Computação em cluster (computação paralela)
+- Periféricos
+-- Dispositivos de armazenamento (disco magnético (HD), USB, discos óticos, fita magnética)
+-- Dispositivos de entrada (teclado, mouse, caneta, touch, scanner, áudio, sensores, reconhecimento ótico)
+-- Dispositivos de saída (monitor, impressora, áudio)
 
+### Redes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Computação cliente/servidor
+- Servidores
+-- Servidor WEB
+-- Servidor de aplicação
+-- Servidor de banco de dados
+- Computação distribuída
+- Redes sem fio
+- Computação em nuvem
+- Tendências
+-- Virtualização
+-- Computação verde (dc em gelo, no mar, etc)
+-- Computação autônoma (tendência no autogerenciamento das máquinas, devido à dificuldade da gerencia por hunanos)
+-- Computação móvel
+-- BYOD (a3, nsi)
+-- Computação pervasiva (IoT)
+-- Computação obíqua (onipresença)
 
-```markdown
-Syntax highlighted code block
+### Software
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guimvmatos/TIC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Sistema operacional
+-- PC, servidores, dispositivos móveis, etc
+- Software utilitário (software que da apoio / planilha, editor de texto, etc)
+- Software aplicativo / aplicações corporativas
+- Software de desenvolvimento
+- Sistemas legados (antigos - custo de substituição não vale a pena - banco)
+- Tendência
+-- Código aberto (open source)
+-- Serviços WEB
+-- Serviços na nuvem (SaaS)
+-- SLA

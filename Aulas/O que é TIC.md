@@ -1,3 +1,7 @@
+> # Tópicos em Infraestrutura de Comunicação
+
+> ## Mr. Guilherme Matos
+
 # O que é Tecnologia de Infraestrutura de Comunicação?
 
 ## Objetivo da aula
@@ -56,8 +60,3 @@
 -- Serviços WEB
 -- Serviços na nuvem (SaaS)
 -- SLA
-
-
-
-
-TI - Conjunto de recursos computacionais oferecidas a uma organização para que ela possa fazer suas atividades, que basicamente é baseado em alguma forma de processamento de dados/informações
